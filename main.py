@@ -10,5 +10,7 @@ class Churrasco:
         print(f"A quantidade de carne para {pessoas} pessoas é de {totalcarne} Gramas")
         print("Teste do commit no github")
         print("Aqui foi o vini que fez")
+        print("Aqui foi o vini que fez dnv para testar")
+
 
 
