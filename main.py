@@ -8,6 +8,6 @@ class Churrasco:
         totalcarne = pessoas * 400
         print(f"O dia do evento será {self.dia}")
         print(f"A quantidade de carne para {pessoas} pessoas é de {totalcarne} Gramas")
-
+        print("Teste do commit no github")
 
 
